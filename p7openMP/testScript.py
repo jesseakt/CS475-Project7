@@ -1,4 +1,4 @@
-#Testing Script for CS475 Project 7
+#Testing Script for CS475 Project 7b
 #Jesse Thoren
 #Description: Compiles and runs project7.cpp
 

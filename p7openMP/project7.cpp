@@ -1,5 +1,5 @@
 /**
- * CS 475 Project 5
+ * CS 475 Project 7b
  * Author: Jesse Thoren
  * Date: June 10, 2017
  * Description: Program to autocorrelate a signal text file.
